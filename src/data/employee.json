@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "first_name": "Chrotoem",
+        "last_name": "Eubank",
+        "email": "ceubank0@about.me",
+        "job_title": "Developer"
+    },
+    {
+        "id": 2,
+        "first_name": "Timofei",
+        "last_name": "Liepins",
+        "email": "tliepins1@answers.com",
+        "job_title": "Software Engineer"
+    },
+    {
+        "id": 3,
+        "first_name": "Myrtice",
+        "last_name": "Borzoni",
+        "email": "mborzoni2@nytimes.com",
+        "job_title": "Developer"
+    },
+    {
+        "id": 4,
+        "first_name": "Dur",
+        "last_name": "Spire",
+        "email": "dspire3@soundcloud.com",
+        "job_title": "Tester"
+    },
+    {
+        "id": 5,
+        "first_name": "Ulick",
+        "last_name": "Dimic",
+        "email": "udimic4@nbcnews.com",
+        "job_title": "Manager"
+    },
+    {
+        "id": 6,
+        "first_name": "Ephrem",
+        "last_name": "Jullian",
+        "email": "ejullian5@stumbleupon.com",
+        "job_title": "Software Engineer"
+    },
+    {
+        "id": 7,
+        "first_name": "Lincoln",
+        "last_name": "Hospital",
+        "email": "lhospital6@barnesandnoble.com",
+        "job_title": "Software Engineer"
+    },
+    {
+        "id": 8,
+        "first_name": "Beltran",
+        "last_name": "Lerohan",
+        "email": "blerohan7@altervista.org",
+        "job_title": "Tester"
+    },
+    {
+        "id": 9,
+        "first_name": "Wilbert",
+        "last_name": "Jorczyk",
+        "email": "wjorczyk8@chicagotribune.com",
+        "job_title": "Manager"
+    },
+    {
+        "id": 10,
+        "first_name": "Aidan",
+        "last_name": "Sexstone",
+        "email": "asexstone9@wisc.edu",
+        "job_title": "Account Executive"
+    },
+    {
+        "id": 11,
+        "first_name": "Anthony",
+        "last_name": "Latus",
+        "email": "alatusa@addthis.com",
+        "job_title": "Help Desk"
+    },
+    {
+        "id": 12,
+        "first_name": "Ramona",
+        "last_name": "Pardal",
+        "email": "rpardalb@yelp.com",
+        "job_title": "Software Engineer"
+    },
+    {
+        "id": 13,
+        "first_name": "Janelle",
+        "last_name": "Divine",
+        "email": "jdivinec@shutterfly.com",
+        "job_title": "Developer"
+    },
+    {
+        "id": 14,
+        "first_name": "Ricardo",
+        "last_name": "Petrello",
+        "email": "rpetrellod@cornell.edu",
+        "job_title": "Tester"
+    },
+    {
+        "id": 15,
+        "first_name": "Katharine",
+        "last_name": "Landreth",
+        "email": "klandrethe@flickr.com",
+        "job_title": "Software Engineer"
+    },
+    {
+        "id": 16,
+        "first_name": "Portia",
+        "last_name": "Aimeric",
+        "email": "paimericf@msu.edu",
+        "job_title": "Manager"
+    },
+    {
+        "id": 17,
+        "first_name": "Barri",
+        "last_name": "Ewens",
+        "email": "bewensg@google.com.hk",
+        "job_title": "Help Desk"
+    },
+    {
+        "id": 18,
+        "first_name": "Lisha",
+        "last_name": "Brumhead",
+        "email": "lbrumheadh@nytimes.com",
+        "job_title": "Software Engineer"
+    },
+    {
+        "id": 19,
+        "first_name": "Thedric",
+        "last_name": "Remon",
+        "email": "tremoni@sogou.com",
+        "job_title": "Account Executive"
+    },
+    {
+        "id": 20,
+        "first_name": "Huntington",
+        "last_name": "Commucci",
+        "email": "hcommuccij@istockphoto.com",
+        "job_title": "Marketing"
+    }
+]
